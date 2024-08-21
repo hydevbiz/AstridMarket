@@ -1,6 +1,6 @@
 ## 🛒 AstridMarket
 
-AstridMarket is a plugin designed for managing markets on the AstridCloud server. It simplifies the setup and control of your in-game market, allowing you to sell items and reset the market with ease. Unlike standard admin shops, AstridMarket features limited stock and supports the addition of custom items, providing a more flexible and dynamic marketplace experience.
+AstridMarket is a custom plugin exclusively for the AstridCloud server. It enables the setup and management of in-game markets, allowing you to easily configure and control item sales and market resets. Unlike standard admin shops, AstridMarket features limited stock and supports the addition of custom items tailored specifically for AstridCloud.
 
 ### Commands and Permissions
 
