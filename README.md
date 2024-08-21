@@ -1,10 +1,10 @@
-## 🌀 AstridMarket
+## 🛒 AstridMarket
 
 AstridMarket is a plugin for managing markets on your Minecraft server. It lets you set up and control your market easily, including selling items and resetting the market. Unlike basic admin shops, AstridMarket has limited stock and allows you to add custom items.
 
 ### Commands and Permissions
 
-- 🛒 **`/market`**
+- 📜 **`/market`**
   - **Description:** Opens the market interface for players.
   - **Permission:** No permission required.
 
