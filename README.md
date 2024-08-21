@@ -1,18 +1,20 @@
-## AstridMarket
+## 🌀 AstridMarket
+
+AstridMarket is a plugin for managing markets on your Minecraft server. It lets you set up and control your market easily, including selling items and resetting the market. Unlike basic admin shops, AstridMarket has limited stock and allows you to add custom items.
 
 ### Commands and Permissions
 
-- **`/market`**
-  - **Description:** Opens the market interface.
+- 🛒 **`/market`**
+  - **Description:** Opens the market interface for players.
   - **Permission:** No permission required.
 
-- **`/market reset`**
-  - **Description:** Resets the market items and configurations.
+- 🔄 **`/market reset`**
+  - **Description:** Resets market items and configurations.
   - **Permission:** `astridmarket.reset`
 
 ### Example Configuration
 
-Below is a sample configuration for the `AstridMarket` plugin, including settings for reset intervals and items:
+Below is a sample configuration for the AstridMarket plugin. This includes settings for market reset intervals and item definitions:
 
 ```yaml
 # Market configuration
@@ -45,7 +47,8 @@ items:
 ```
 
 ### Currency Support
+The AstridMarket plugin supports various currency systems, including:
 
-- vault
-- playerpoint
-- coin engine (filename)
+- 💰 Vault
+- 💎 PlayerPoints
+- 🪙 Coin Engine (filename)
