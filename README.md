@@ -42,3 +42,10 @@ items:
       currency: playerpoints
     commands:
       - 'give %player% totem_of_undying 1'
+```
+
+### Currency Support
+
+- vault
+- playerpoint
+- coin engine (filename)
